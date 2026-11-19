@@ -39,11 +39,9 @@ Responsible and motivated young professional with training in web development an
 
 - **Web Application Development (Higher Vocational Diploma)** — IES Zaidín Vergeles (2026 – Present)
 - **Python Programming, PCAP 2.0 Certification** — Tokio School (2026 – Present)
-- **Science and Technology Baccalaureate (Upper Secondary)** — Albay Formación (2025 – 2026)
+- **Website Creation and Publishing** — Albay Formación (2025 – 2026)
 - **Erasmus+ Certificates** — Celei, Colegio Salesiano de San Juan Bosco (2023 – 2025)
-- **Website Creation and Publishing** — Colegio Salesiano de San Juan Bosco (2023 – 2025)
-
-## 📄 Curriculum
+- **Science and Technology Baccalaureate (Upper Secondary)** — Colegio Salesiano de San Juan Bosco (2023 – 2025)
 
 ## 📄 Curriculum
 
