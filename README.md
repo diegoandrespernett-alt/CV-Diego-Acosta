@@ -47,5 +47,5 @@ Responsible and motivated young professional with training in web development an
 
 ## 📄 Curriculum
 
-[![CV English](https://img.shields.io/badge/CV-English-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Diego_Acosta_Pernett_EN.pdf)
+[![CV English]([https://img.shields.io/badge/CV-English-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Diego_Acosta_Pernett_EN.pdf](https://github.com/diegoandrespernett-alt/CV-Diego-Acosta/blob/main/CV%20Diego%20Acosta%20Pernett%20EN.pdf))
 [![CV Español](https://img.shields.io/badge/CV-Español-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Diego_Acosta_Pernett_ES.pdf)
