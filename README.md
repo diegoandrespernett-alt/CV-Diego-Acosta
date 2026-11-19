@@ -44,3 +44,8 @@ Responsible and motivated young professional with training in web development an
 - **Science and Technology Baccalaureate (Upper Secondary)** — Albay Formación (2025 – 2026)
 - **Erasmus+ Certificates** — Celei, Colegio Salesiano de San Juan Bosco (2023 – 2025)
 - **Website Creation and Publishing** — Colegio Salesiano de San Juan Bosco (2023 – 2025)
+
+## 📄 Curriculum
+
+[![CV English](https://img.shields.io/badge/CV-English-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Diego_Acosta_Pernett_EN.pdf)
+[![CV Español](https://img.shields.io/badge/CV-Español-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Diego_Acosta_Pernett_ES.pdf)
