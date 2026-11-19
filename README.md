@@ -1,5 +1,3 @@
-# CV-Diego-Acosta
-profesional cv
 # Hi, I'm Diego Acosta 👋
 
 **Web Developer** · Granada, Spain
